@@ -1,7 +1,7 @@
 // JoyShockLibrary.h - Contains declarations of functions
 #pragma once
-#include <widemath.h>
 #include <vector>
+#include <cstdint>
 
 #if _MSC_VER // this is defined when compiling with Visual Studio
 #define JOY_SHOCK_API __declspec(dllexport) // Visual Studio needs annotating exported functions with this
