@@ -5,7 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
-public static class JSLSharo
+public static class JSLSharp
 {
     public const int ButtonMaskUp = 0;
     public const int ButtonMaskDown = 1;
