@@ -1,0 +1,4 @@
+L:/eriks/Source/VisualStudio/Repos/JoyShockLibrary/CMakeFiles/hidapi.dir
+L:/eriks/Source/VisualStudio/Repos/JoyShockLibrary/CMakeFiles/ALL_BUILD.dir
+L:/eriks/Source/VisualStudio/Repos/JoyShockLibrary/CMakeFiles/ZERO_CHECK.dir
+L:/eriks/Source/VisualStudio/Repos/JoyShockLibrary/JoyShockLibrary/CMakeFiles/JoyShockLibrary.dir

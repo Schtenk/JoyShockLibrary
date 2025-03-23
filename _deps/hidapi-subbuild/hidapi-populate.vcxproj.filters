@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeFiles\8e7888c50b98708632cc1e645adac9ca\hidapi-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeFiles\8e7888c50b98708632cc1e645adac9ca\hidapi-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeFiles\8e7888c50b98708632cc1e645adac9ca\hidapi-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeFiles\8e7888c50b98708632cc1e645adac9ca\hidapi-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeFiles\8e7888c50b98708632cc1e645adac9ca\hidapi-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeFiles\8e7888c50b98708632cc1e645adac9ca\hidapi-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeFiles\8e7888c50b98708632cc1e645adac9ca\hidapi-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeFiles\8e7888c50b98708632cc1e645adac9ca\hidapi-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeFiles\6cc0ab692c4db189696723a50beb95ee\hidapi-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeFiles\01b50c52216ae198fa8471722d255be5\hidapi-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-subbuild\CMakeFiles\hidapi-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0CE4EBB9-7297-3714-8097-79F94F4AD6DA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -2,7 +2,7 @@
 
 #include "JoyShockLibrary.h"
 #include <bitset>
-#include "hidapi.h"
+#include "hidapi/hidapi.h"
 #include <chrono>
 #include <thread>
 #include <unordered_map>
@@ -13,6 +13,8 @@
 #ifdef __GNUC__
 #define _wcsdup wcsdup
 #endif
+
+#include <mutex>
 
 enum ControllerType { n_switch, s_ds3, s_ds4, s_ds };
 
@@ -1680,8 +1682,8 @@ public:
 			// Update the timing byte modulo 16.
 			timing_byte = (timing_byte + 1) & 0xF;
 			pkt->subcmd = 0x10;
-			pkt->offset = offset;
-			pkt->size = read_len;
+			pkt->spi_data.offset = offset;
+			pkt->spi_data.size = read_len;
 
 			for (int i = 11; i < 22; ++i) {
 				buf[i] = buf[i + 3];

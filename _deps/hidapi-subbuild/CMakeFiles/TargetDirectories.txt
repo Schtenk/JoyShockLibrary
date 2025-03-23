@@ -1,0 +1,3 @@
+L:/eriks/Source/VisualStudio/Repos/JoyShockLibrary/_deps/hidapi-subbuild/CMakeFiles/hidapi-populate.dir
+L:/eriks/Source/VisualStudio/Repos/JoyShockLibrary/_deps/hidapi-subbuild/CMakeFiles/ALL_BUILD.dir
+L:/eriks/Source/VisualStudio/Repos/JoyShockLibrary/_deps/hidapi-subbuild/CMakeFiles/ZERO_CHECK.dir

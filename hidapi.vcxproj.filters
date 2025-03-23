@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\_deps\hidapi-src\windows\hid.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="L:\eriks\Source\VisualStudio\Repos\JoyShockLibrary\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F26D78A6-F33B-3AEC-8F7B-549A31FB3BDB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
